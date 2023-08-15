@@ -1,0 +1,24 @@
+{
+  "name": "math-mensuration-api",
+  "version": "1.0.0",
+  "description": "An API for solving your geometry sums",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ventuscoder/math-mensuration-api.git"
+  },
+  "author": "Ventuscoder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ventuscoder/math-mensuration-api/issues"
+  },
+  "homepage": "https://github.com/Ventuscoder/math-mensuration-api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "math-formulas": "^1.0.5"
+  },
+  "type": "module"
+}
